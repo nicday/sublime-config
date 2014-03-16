@@ -1,7 +1,9 @@
   # Sublime Packages & Config
   A collection of recommended packages and configuration for Sublime Text 2
 
+
   ### How to install
+  
   1. Ensure Sublime Text 2 is shut down
   2. Clone this repository into the `~/Library/Application Support/Sublime Text 2/Packages/User/`
     ``` sh
