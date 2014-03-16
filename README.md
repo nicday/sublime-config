@@ -6,10 +6,11 @@ A collection of recommended packages and configuration for Sublime Text 2
 
 1. Ensure Sublime Text 2 is shut down
 2. Clone this repository into Sublime Text 2's User Package directory 
-  ``` sh
-  cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-  git clone https://github.com/nicday/sublime-config.git User
-  ```
+
+```sh
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+git clone https://github.com/nicday/sublime-config.git User
+```
 3. Restart Sublime Text 2
 
 *Note: This will override any user configuration you have already applied to Sublime Text 2*
