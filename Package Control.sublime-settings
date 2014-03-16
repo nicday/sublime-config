@@ -2,11 +2,9 @@
 	"installed_packages":
 	[
 		"ColorPicker",
-		"CSScomb JS",
 		"Emmet",
 		"Git",
 		"GitGutter",
-		"Package Control",
 		"Print to HTML",
 		"Syntax Highlighting for Sass"
 	]

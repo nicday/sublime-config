@@ -1,6 +1,7 @@
 # Sublime Packages & Config
-## A collection of recommended packages and configuration for Sublime Text 2
+A collection of recommended packages and configuration for Sublime Text 2
 
+-----------------------------------------------------------------------------
 ### How to install
 1. Clone this repository into the `~/Library/Application Support/Sublime Text 2/Packages/User/`
 2. Restart Sublime Text 2
@@ -10,17 +11,21 @@
 ### Installed Packages
 
 #### ColorPicker
-*https://github.com/weslly/ColorPicker*
+https://github.com/weslly/ColorPicker
+
 `cmd+shift+c` - Insert or change a selected color 
 
 #### Emmet
-*http://emmet.io/*
+http://emmet.io/
+
+*Note: To use Emmet, you must also have PyV8 Binaries installed*
+*https://github.com/emmetio/pyv8-binaries*
 
 #### GitGutter
-*http://www.jisaacks.com/gitgutter*
+http://www.jisaacks.com/gitgutter
 
 #### Print to HTML
-*https://github.com/joelpt/sublimetext-print-to-html*
+https://github.com/joelpt/sublimetext-print-to-html
 
 #### Syntax Highlighting for Sass
-*https://github.com/P233/Syntax-highlighting-for-Sass*
+https://github.com/P233/Syntax-highlighting-for-Sass
